@@ -1,1 +1,0 @@
-# pancadao-check
